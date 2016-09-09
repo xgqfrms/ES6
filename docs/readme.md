@@ -3,7 +3,7 @@
 ***
 ![ES6 logo](http://cdn.xgqfrms.xyz/images/JS-logo.png)
 ***
-### 1. Constants [Read](https://xgqfrms.github.io/ES6/docs/Constants.md)
+### 1. Constants [Read](./Constants.md)
 
 ### 2. Scoping 
 
