@@ -3,7 +3,7 @@
 ***
 ![ES6 logo](http://cdn.xgqfrms.xyz/images/JS-logo.png)
 ***
-### 1. Constants 
+### 1. Constants [Read](https://xgqfrms.github.io/ES6/docs/Constants.md)
 
 ### 2. Scoping 
 
@@ -44,13 +44,4 @@
 ### 20. Internationalization & Localization
 
 ***
-***
-
 ### [read more ES7](http://cdn.xgqfrms.xyz/offical-docs/ECMA/ECMA-262%207th%20edition%20June%202016.pdf)
-
-
-
-
-
-
-
