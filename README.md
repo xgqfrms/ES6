@@ -16,3 +16,9 @@ http://es6.webgeeker.xyz/
 ### [ES 6 New Features](https://xgqfrms.github.io/ES6/) 
 
 ### [http://es6.xgqfrms.xyz/](http://es6.xgqfrms.xyz/)
+
+
+### [https://es6.xgqfrms.xyz/](https://es6.xgqfrms.xyz/)
+
+
+
