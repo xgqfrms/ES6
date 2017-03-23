@@ -26,5 +26,10 @@ http://exploringjs.com/es6/ch_modules.html
 https://egghead.io/lessons/ecmascript-6-es6-modules-es2015-import-and-export
 
 
+## ES6-import-export
+
+https://gist.github.com/xgqfrms-GitHub/0559ba5215ed47bdd1d8134928f12946
+
+
 
 
