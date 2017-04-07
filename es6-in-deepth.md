@@ -550,6 +550,7 @@ Object.setPrototypeOf( o, newProto );
 - Function calls in tail position are tail-call optimized
 - A function is in tail position if it's the last action in the function 
 - Compatibility: currently low support ( https://kangax.github.io/compat-table/es6/ )
+- 尾调用优化避免了使用堆栈进行函数调用
 
 Regular recursion:
 
@@ -560,7 +561,7 @@ function sumToN( n ) {
 };
 ```
 
-Tail call optimization with *accumulator variables*:
+尾调用优化使用 *accumulator variables*:
 
 ```js
 function sumToN( n, sum = 0 ) { 
