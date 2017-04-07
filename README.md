@@ -28,7 +28,7 @@ https://xgqfrms.github.io/ES6/
 
 
 
-![es6-in-deepth](es6-in-deepth.md)
+[es6-in-deepth](es6-in-deepth.md)
 
 
 
