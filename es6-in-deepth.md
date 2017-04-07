@@ -1006,11 +1006,13 @@ Proxies are not only complex, but they heavily build on the Reflect API. Check o
 Check out [ES6 in Practice](https://leanpub.com/es6-in-practice), and put theory into practice by solving 59 exercises, and checking out their reference solutions.
 
 
+***
+***
 
 
+## Rest parameters(es6) === Array.from(es5) + slice()
 
-
-
+![Rest parameters(es6) === Array.from(es5) + slice()](https://mdn.mozillademos.org/files/14857/Rest_parameters(es6)-Array.from(es5).png)
 
 
 
