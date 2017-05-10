@@ -14,7 +14,23 @@ https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch
 
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/let
 
+> let 语句声明一个块级作用域的本地变量，并且可选的将其初始化为一个值。
+
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/const
+
+> 常量是块级作用域， 很像使用 let 语句定义的变量。常量的值不能通过重新赋值来改变，并且不能重新声明。
+
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Statements/var
+
+
+> 变量语句声明了一个变量，可选地将其初始化为一个值。
+
+
+### 语法和数据类型
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Grammar_and_types#Constants
+
 
 
 ## es6 `let` & `emoji`
