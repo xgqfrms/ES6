@@ -4,6 +4,10 @@ https://github.com/zsolt-nagy/es6-summary
 
 http://www.zsoltnagy.eu/category/es6/
 
+https://hacks.mozilla.org/category/es6-in-depth/
+
+
+
 ## es6 let & emoji 
 
 https://github.com/xgqfrms-GitHub/Native-JavaScript/blob/master/es6-emoji.html
