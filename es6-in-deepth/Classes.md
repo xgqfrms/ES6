@@ -268,17 +268,76 @@ class Bar extends calculatorMixin(randomizerMixin(Foo)) { }
 
 
 
+## es5
+
 ```js
 //  
+function Circle(radius) {  
+  this.radius = radius;
+  Circle.circlesMade++;
+}
 
+Circle.draw = function draw(circle, canvas) { /* canvas drawing code */ };
+
+Object.defineProperty(Circle, "circlesMade", {  
+  get: function() {
+    return this._count ? this._count : 0;
+  },
+  set: function(val) {
+    this._count = val;
+  }
+});
+
+Circle.prototype = {  
+  area() {
+    return Math.PI * this.radius * this.radius;
+  },
+
+  get radius() {
+    return this._radius;
+  },
+  set radius(radius) {
+    radius = Number.parseFloat(radius);
+    if (isNaN(radius)) throw new Error("Circle radius must be a number.");
+    this._radius = radius;
+  }
+};
 
 ```
 
+## es6
 
 ```js
 //  
 
+class Circle {  
+  constructor(radius) {
+    this.radius = radius;
+    Circle.circlesMade++;
+  };
 
+  static draw(circle, canvas) { /* canvas drawing code */ };
+
+  static get circlesMade() {
+    return this._count ? this._count : 0;
+  };
+  static set circlesMade(val) {
+    this._count= val;
+  };
+
+  area() {
+    return Math.PI * this.radius * this.radius;
+  };
+
+  get radius() {
+    return this._radius;
+  };
+  set radius(radius) {
+    radius = Number.parseFloat(radius);
+    if (Number.isNaN(radius)) throw new Error("Circle radius must be a number.");
+    this._radius = radius;
+  };
+}
 ```
 
 
