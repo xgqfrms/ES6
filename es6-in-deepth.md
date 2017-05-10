@@ -4,6 +4,13 @@ https://github.com/zsolt-nagy/es6-summary
 
 http://www.zsoltnagy.eu/category/es6/
 
+## es6 let & emoji 
+
+https://github.com/xgqfrms-GitHub/Native-JavaScript/blob/master/es6-emoji.html
+
+https://jsfiddle.net/sybn4h33/3/
+
+https://gist.github.com/xgqfrms-GitHub/19479fdadbbc05356aceaf56073bec6d
 
 
 
