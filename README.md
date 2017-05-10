@@ -13,6 +13,14 @@ https://xgqfrms-github.github.io/ES6/
 ***
 ### [https://github.com/xgqfrms/ES6/](https://git.io/vi41K) 
 
+
+https://github.com/xgqfrms/ES6
+
+
+https://es6.xgqfrms.xyz
+
+
+
 ***
 
 https://xgqfrms.github.io/ES6/
