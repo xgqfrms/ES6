@@ -49,6 +49,10 @@ JavaScript 是 **弱类型** 语言，但并不是没有类型，JavaScript可�
 	typeof not_defined_var 
 	// "undefined" 
 ``` 
+
+![typeof-function console-object](https://cloud.githubusercontent.com/assets/18028768/25891632/55816920-35a4-11e7-8345-9ed539f10f68.png)
+
+
 ## 变量 
 在应用程序中，使用变量来来为值命名。变量的名称称为 `identifiers` 
 
