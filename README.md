@@ -36,9 +36,9 @@ https://xgqfrms.github.io/ES6/
 
 ***
 
-## [es6-in-deepth](es6-in-deepth.md)
+## [es6-in-deepth](es6-in-deepth/readme.md)
 
-
+https://github.com/xgqfrms/ES6/blob/gh-pages/es6-in-deepth/readme.md
 
 
 
