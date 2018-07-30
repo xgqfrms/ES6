@@ -10,6 +10,6 @@
 
 ### Set
 
-[./Collection/Set.md](Set.md)
+[./Collection/Set.md](./Collection/Set.md)
 
 
