@@ -7,7 +7,7 @@
  * @copyright xgqfrms
  *
  * @description addAttention 添加关注(包含企业，领域)
- * @augments POST /isv/duck/jintan/user/attention/add
+ * @augments POST /isv/duck/jt/user/attention/add
  * @example
  * @link
  *
